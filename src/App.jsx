@@ -5,7 +5,7 @@ export default function App() {
     <div className="site">
 
       <nav className="navbar">
-        <h1>Space City Detail</h1>
+        <h1>Drip City Detailing</h1>
         <a href="#pricing">Pricing</a>
       </nav>
 
