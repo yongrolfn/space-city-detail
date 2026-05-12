@@ -37,6 +37,8 @@ export default function App() {
     </p>
     <span>$149</span>
 
+    <div className="service-icon">🚘</div>
+
     <a className="book-btn" href="tel:8328986091">
   
   Book Now
@@ -51,6 +53,8 @@ export default function App() {
     </p>
     <span>$249</span>
 
+    <div className="service-icon">🪑</div>
+
     <a className="book-btn" href="tel:8328986091">
   
   Book Now
@@ -64,6 +68,8 @@ export default function App() {
       tire shine, windows, wax protection, and final wipe down.
     </p>
     <span>$349</span>
+
+    <div className="service-icon">💎</div>
 
     <a className="book-btn" href="tel:8328986091">
   

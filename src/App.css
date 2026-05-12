@@ -217,3 +217,9 @@ body {
     font-size: 1rem;
   }
 }
+
+.service-icon {
+  font-size: 60px;
+  text-align: center;
+  margin: 20px 0;
+}
